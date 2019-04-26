@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.Cover__WebApi PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Cover_WebApi/Startup.cs">
     <Files>
-      <File FileName="Cover_WebApi/Startup.cs" Line="39" Column="99" />
+      <File FileName="Cover_WebApi/Startup.cs" Line="56" Column="19" />
       <File FileName="Cover_WebApi/Program.cs" Line="17" Column="1" />
     </Files>
     <Pads>

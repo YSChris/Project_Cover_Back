@@ -53,7 +53,7 @@ namespace Cover_WebApi
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseStaticFiles();
+                //app.UseStaticFiles();
                 app.UseCors("admin");
             }
 
