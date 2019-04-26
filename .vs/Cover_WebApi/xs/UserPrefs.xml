@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{CCC2478A-02A9-4E43-99BC-08CF12342E77}|Default">
+  <MonoDevelop.Ide.ItemProperties.Cover__WebApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cover_WebApi/Startup.cs">
+    <Files>
+      <File FileName="Cover_WebApi/Startup.cs" Line="39" Column="99" />
+      <File FileName="Cover_WebApi/Program.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Cover_WebApi" expanded="True">
+            <Node name="Cover_WebApi" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
